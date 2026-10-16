@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sharon Ekula
 
-<!--
-**sharonekula13/sharonekula13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building backend and AI systems, with a focus on RAG, multi-agent workflows, APIs, and cloud-ready applications.
 
-Here are some ideas to get you started:
+M.S. in Computer Science from NJIT. I work mainly with Python, FastAPI, LLMs, vector databases, Docker, Terraform, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Applied AI & GenAI** — RAG systems, multi-agent workflows, semantic retrieval, embeddings, and LLM evaluation
+- **Backend Engineering** — Python, FastAPI, REST APIs, PostgreSQL, and production-oriented services
+- **Cloud & DevOps** — AWS, Docker, Kubernetes, Terraform, CI/CD, and GitHub Actions
+- **Machine Learning** — PyTorch, TensorFlow, Hugging Face, and model evaluation
+
+## Featured Projects
+
+- **God’s Word** — custom RAG system over 31,100+ documents with semantic retrieval, evaluation, multi-turn memory, and Llama 3
+- **FinSight** — multi-agent RAG system for SEC filings with router, retriever, analyst, and verifier agents
+
+## Let's Connect
+
+[LinkedIn](https://linkedin.com/in/sharon-ekula) · [Email](mailto:ekulasharon13@gmail.com)
