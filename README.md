@@ -1,15 +1,20 @@
-# Hi, I'm Sharon Ekula
+Hey, I'm Sharon Ekula 👋
 
-Software Engineer building backend and AI systems, with a focus on RAG, multi-agent workflows, APIs, and cloud-ready applications.
+💻 Software Engineer | 🤖 AI & GenAI | ☁️ Cloud Engineering
 
-M.S. in Computer Science from NJIT. I work mainly with Python, FastAPI, LLMs, vector databases, Docker, Terraform, and AWS.
+I build reliable software at the intersection of backend engineering and AI. I'm interested in building practical AI systems, scalable APIs, and cloud-ready applications that solve real problems.
 
-## What I work on
+🎓 M.S. in Computer Science — New Jersey Institute of Technology (NJIT)
 
-- **Applied AI & GenAI** — RAG systems, multi-agent workflows, semantic retrieval, embeddings, and LLM evaluation
-- **Backend Engineering** — Python, FastAPI, REST APIs, PostgreSQL, and production-oriented services
-- **Cloud & DevOps** — AWS, Docker, Kubernetes, Terraform, CI/CD, and GitHub Actions
-- **Machine Learning** — PyTorch, TensorFlow, Hugging Face, and model evaluation
+✨ What I Work On
+
+🤖 Applied AI & GenAI — RAG systems, multi-agent workflows, semantic retrieval, and LLM evaluation
+
+⚙️ Backend Engineering — Python, FastAPI, REST APIs, and database-driven applications
+
+☁️ Cloud & DevOps — AWS, Docker, Terraform, Kubernetes, and CI/CD
+
+🧠 Machine Learning — PyTorch, TensorFlow, Hugging Face, and model evaluation
 
 ## Featured Projects
 
