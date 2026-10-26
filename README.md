@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm Sharon Ekula 👋</h1>
 
-<h3 align="center">💻 Software Engineer | 🤖 AI & GenAI | ☁️ Cloud Engineering</h3>
+<h3 align="center">💻 Software Engineer | 🤖 AI & GenAI </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20GenAI-8B5CF6?style=for-the-badge" alt="AI and GenAI" />
